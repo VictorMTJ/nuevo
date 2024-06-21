@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: aqua;
+}
+h2 {
+    text-align: right;
+    color: aqua;
+}
+h1
+
+body{
+    background: white;
+    padding: 20px;
+    font-size: 18px;
+    font-family: "Roboto Condensed", sans-serif; tamaño-óptico-de-fuente: automático; peso de fuente: <peso>; estilo de fuente: normal;
+}
+.MAYUSCULAS{
+    text-transform: uppercase;
+}
+p.parrafo {
+    font-size: 28px;
+    color: #323232;
+    text-transform: lowercase;
+    line-height: ;
+}
+p.bold{
+    text-align: right; 
+    font-weight: bold;
+}
+p{
+    font-size: 28px;
+    line-height: 1.6;
+}
+p{
+    font-size: 12px;
+}
+a{
+    font-size: 32px;
+    color: #fff;
+    background: red;
+    text-decoration: none;
+    text-transform: capitalize;
+    padding: 20px;
+    display: block;
+    text-align: center;
+    height: 200px;
+    width: 200px;
+    margin: 0 auto;
+    border-radius: 50%;
+    place-content: center;
+    border: dotted 12px #000;
+    box-shadow: 20px 10px 0.5 #000;
+}
